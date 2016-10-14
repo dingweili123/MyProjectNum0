@@ -35,31 +35,26 @@
 
         <Button
             android:id="@+id/btn_sh"
-
             style="@style/btn_style"
             android:text="STOCK HAWK"/>
 
         <Button
             android:id="@+id/btn_bib"
-
             style="@style/btn_style"
             android:text="BUILD IT BIGGER"/>
 
         <Button
             android:id="@+id/btn_myam"
-
             style="@style/btn_style"
             android:text="MAKE YOUR APP MATERIAL"/>
 
         <Button
             android:id="@+id/btn_gu"
-
             style="@style/btn_style"
             android:text="GO UBIQUITOUS"/>
 
         <Button
             android:id="@+id/btn_cap"
-
             style="@style/btn_style"
             android:text="CAPSTONE"/>
 
